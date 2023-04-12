@@ -10,3 +10,5 @@
 ## Submission
 
 Submit completed Colab notebook showing generated output.
+
+A transformer model is like a computer program that can understand and process written or spoken language. It does this by paying attention to different parts of the words or sounds it hears and figuring out how they are related to each other. This helps it do a really good job at tasks like answering questions, translating languages, or summarizing long texts.
